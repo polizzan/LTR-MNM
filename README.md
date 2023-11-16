@@ -1,3 +1,7 @@
+[![doi](https://img.shields.io/badge/DOI-10.17605/OSF.IO/UYZ5H-blue)][doi]
+
+[doi]: https://doi.org/10.17605/OSF.IO/UYZ5H
+
 # LTR-MNM
 
 ## Purpose of the Repository
